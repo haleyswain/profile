@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+img {
+  border-radius: 50%;
+}
+.btn-group {
+  text-align: center;
+}
+p {
+  font-size: 16px;
+}
+.blue {
+  background-color: #80BE46;
+  color: black;
+}
